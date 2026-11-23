@@ -25,7 +25,7 @@ Web and mobile app used by about 2,000 people. I led 2 developers and a designer
 
 ## In the open
 
-Most of my work lives in private repos. What's public: [skills](https://github.com/thibaultadet/skills), the agent skills I use with Claude Code.
+Most of my work lives in private repos. What's public: [skills](https://github.com/thibaultadet/agent-factory), the agent skills I use with Claude Code.
 
 ## Contact
 
