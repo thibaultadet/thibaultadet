@@ -6,7 +6,7 @@ What I like: taking a user need and following it all the way to the code, throug
 
 **Looking for:** a Lead, Senior Full Stack or Product Engineer role on a product that already has customers. Remote in France or based in Marseille.
 
-## Beny (CTO & co-founder, since May 2025)
+## Beny (Founding engineer & co-founder, since May 2025)
 
 An app that cuts the admin load on family caregivers. Built solo, with about 300 sign-ups across 2 launched products (B2C, then B2B).
 
